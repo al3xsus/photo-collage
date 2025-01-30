@@ -46,4 +46,7 @@ The photo collage maker is built using the following libraries:
 - Pillow
 - NumPy
 
-Deployed version can be accessed here - https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/
+Deployed version can be accessed [here](https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/)
+
+Video of me using it can be
+found [here](https://media-hosting.imagekit.io//c89c977fb7784c4d/streamlit-main-2025-01-30-16-01-50.webm?Expires=1832845421&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=g7aAP1Vr8g4JQDswVWKC~Ae6sGvSUO7h0v9eNo-j7ENdHhu3Fjx9ElObqJ8QZsfOabnli8ATHrtgwNaafVnFdAGRAG-AeEHGOjMRjXw4Ctbjt3ooDZYE6fMVwkDTAUTyRuPvrK7a-mas9YLwcEQp2tjCOuX9kMhn8q1rzB3FMGl-hkDH37xnx3qhJ~4Noiqfp0fQJHvMTcIwmzDxpiTsD10FBTGSjcz0wWGtEn9LsVU0SO5IMNUdfIx7OmwR-iT9qoghSlifkVrSEgW-VbF5AlvpOPxzdAEjFnj21EaYYfN3vm99ee2gTR1BKOjTxohG70GRXm3-GvW7JAiOpkBu9A__)
