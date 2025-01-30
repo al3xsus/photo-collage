@@ -45,3 +45,5 @@ The photo collage maker is built using the following libraries:
 - Streamlit
 - Pillow
 - NumPy
+
+Deployed version can be accessed here - https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/
