@@ -6,7 +6,6 @@ date: 2025-01-30
 updated: 2025-01-30
 tags: ["python", "streamlit", "image-processing", "photo-editor", "collage", "pillow", "streamlit-app"]
 coverImage: "/images/photo-collage-cover.webp"
-githubUrl: "https://github.com/al3xsus/photo-collage"
 liveDemo: "https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/"
 techStack: ["Python 3.10", "Streamlit", "Pillow", "NumPy"]
 canonical: "https://github.com/al3xsus/photo-collage"
