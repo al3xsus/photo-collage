@@ -8,6 +8,7 @@ tags: ["python", "streamlit", "image-processing", "photo-editor", "collage", "pi
 coverImage: "/images/photo-collage-cover.webp"
 liveDemo: "https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/"
 techStack: ["Python 3.10", "Streamlit", "Pillow", "NumPy"]
+devtoURL: https://dev.to/al3xsus/photo-collage-tool-made-in-python-with-pil-46cb)
 canonical: "https://github.com/al3xsus/photo-collage"
 ---
 
@@ -74,5 +75,4 @@ License details: _(check LICENSE file on GitHub)_.
 
 ## 🔗 Links
 
-- **GitHub Repo:** [al3xsus/photo-collage](https://github.com/al3xsus/photo-collage)  
 - **Live Demo App:** [Open in Browser](https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/)
