@@ -76,3 +76,7 @@ License details: _(check LICENSE file on GitHub)_.
 ## 🔗 Links
 
 - **Live Demo App:** [Open in Browser](https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/)
+
+---
+
+> 🖼️ This repository includes a social preview image for enhanced link sharing.
