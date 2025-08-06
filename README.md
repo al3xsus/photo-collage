@@ -15,7 +15,7 @@ canonical: "https://github.com/al3xsus/photo-collage"
 # Photo Collage Maker 📸
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python)](https://www.python.org/)
 [![Deploy with Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://al3xsus-photo-collage-main-nq4ktm.streamlit.app/)
 [![Last Commit](https://img.shields.io/github/last-commit/al3xsus/photo-collage)](https://github.com/al3xsus/photo-collage/commits/main)
 
