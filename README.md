@@ -2,7 +2,7 @@
 title: "Photo Collage Maker"
 description: "A Python + Streamlit tool to upload images and generate collages with custom layouts and spacing."
 slug: "photo-collage"
-date: 2025-01-30
+created: 2025-01-30
 updated: 2025-01-30
 tags: ["python", "streamlit", "image-processing", "photo-editor", "collage", "pillow", "streamlit-app"]
 coverImage: "/images/photo-collage-cover.webp"
